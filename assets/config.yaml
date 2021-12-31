@@ -1,0 +1,16 @@
+icons :
+    main : './assets/icons/notepyd.ico'
+    copy : './assets/icons/copy.ico'
+    cut : './assets/icons/cut.ico'
+    paste : './assets/icons/paste.ico'
+    save : './assets/icons/save.ico'
+    save as : './assets/icons/save_as.ico'
+    open : './assets/icons/open.ico'
+    print : './assets/icons/print.ico'
+    new file : './assets/icons/new_file.ico'
+    undo : './assets/icons/undo.ico'
+    redo : './assets/icons/redo.ico'
+    select all : './assets/icons/select_all.ico'
+    about : './assets/icons/about.ico'
+font:
+    size : 11
